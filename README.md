@@ -1,2 +1,1 @@
-"# Goose_Game" 
-"# Goose_Game" 
+"My first pygame project"
